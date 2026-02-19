@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "images/favicon.ico",
   organizationName: "Hanzo ZT",
-  projectName: "ziti-browzer-doc",
+  projectName: "zt-browzer-doc",
   deploymentBranch: "master",
   trailingSlash: false,
   // Even if you don't use internalization, you can use this field to set useful
@@ -42,7 +42,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/hanzozt/ziti-browzer-doc/tree/main/",
+          editUrl: "https://github.com/hanzozt/zt-browzer-doc/tree/main/",
           sidebarCollapsed: true,
           remarkPlugins: [require('mdx-mermaid')],
         },
@@ -132,7 +132,7 @@ const config = {
           },
 
           {
-            href: "https://github.com/hanzozt/ziti",
+            href: "https://github.com/hanzozt/zt",
             className: "header-github-link",
             "aria-label": "GitHub repository",
             position: "right",
@@ -192,7 +192,7 @@ const config = {
               {
                 label: "Help Us",
                 href:
-                  "https://github.com/hanzozt/ziti/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc",
+                  "https://github.com/hanzozt/zt/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc",
               },
             ],
           },

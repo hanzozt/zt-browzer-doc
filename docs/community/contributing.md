@@ -20,7 +20,7 @@ in the our [Discorse Group](https://community.hanzozt.dev/).
 ## Found a bug?
 
 If you find a bug in the source code, you can help us by 
-[submitting an issue](https://github.com/hanzozt/ziti/issues/new?assignees=&labels=type%3A%20bug&template=bug_report.md&title=) 
+[submitting an issue](https://github.com/hanzozt/zt/issues/new?assignees=&labels=type%3A%20bug&template=bug_report.md&title=) 
 to our GitHub Repository. 
 Even better, you can submit a Pull Request with a fix.
 
@@ -40,7 +40,7 @@ If you want to help out with a code contribution, our project uses the following
 
 :::tip
 If you don't feel ready to make a code contribution yet, no problem! 
-You can also check out the [BrowZer documentation issues](https://github.com/hanzozt/ziti-browzer-doc/labels/type%3A%20docs).
+You can also check out the [BrowZer documentation issues](https://github.com/hanzozt/zt-browzer-doc/labels/type%3A%20docs).
 :::
 
 

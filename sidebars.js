@@ -43,11 +43,11 @@ const sidebars = {
       label: "Getting Started",
       items: [
         "getting-started/idp",
-        "getting-started/ziti-console",
-        "getting-started/ziti-http-agent",
-        "getting-started/ziti-external-jwt-signer",
-        "getting-started/ziti-auth-policies",
-        "getting-started/ziti-identities",
+        "getting-started/zt-console",
+        "getting-started/zt-http-agent",
+        "getting-started/zt-external-jwt-signer",
+        "getting-started/zt-auth-policies",
+        "getting-started/zt-identities",
       ],
       link: {
         type: "generated-index",

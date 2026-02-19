@@ -1,5 +1,5 @@
 ---
-id: ziti-http-agent
+id: zt-http-agent
 title: The Ziti HTTP Agent
 type: explanation
 ---
