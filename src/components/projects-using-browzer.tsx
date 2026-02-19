@@ -129,7 +129,7 @@ export default function ProjectUsingBrowzer(): JSX.Element {
     <div className="padding-vert--xl container">
       <p className="margin-bottom--md" style={{ textAlign: "center" }}>
         Many teams worldwide are using
-        <span className={styles.colorPrimary}> OpenZiti BrowZer</span>
+        <span className={styles.colorPrimary}> Hanzo ZT BrowZer</span>
       </p>
       <div className="row">
         {projects.map((p) => (

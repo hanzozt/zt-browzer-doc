@@ -11,7 +11,7 @@ type: explanation
 BrowZer is a group of open source components that enable you to operate private-to-the-internet web applications while still easily providing secure access for authorized internet-based remote users. This applies to enterprises and self-hosting enthusiasts alike, whether in the cloud or at home.
 
 
-BrowZer is is a solution built as part of the [OpenZiti](https://github.com/openziti/) project.  
+BrowZer is is a solution built as part of the [Hanzo ZT](https://github.com/hanzozt/) project.  
 
 In the category of securing browser-based applications, BrowZer's approach is unique among today's technology offerings.
 
@@ -24,7 +24,7 @@ Some introductory video 'splainer video...not necessarily the sample placeholder
 <div className="videowrapper">
     <iframe 
         height="100%"
-        title="OpenZiti BrowZer Introduction"
+        title="Hanzo ZT BrowZer Introduction"
         src="https://www.youtube-nocookie.com/embed/JLlplnorFY4"
         frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
     </iframe>

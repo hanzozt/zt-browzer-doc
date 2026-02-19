@@ -85,9 +85,9 @@ Some geneneral questions we are often asked about BrowZer.
   
     Join us at any of the following locations: 
 
-  - [GitHub](https://github.com/openziti) 
-  - [Discourse](https://openziti.discourse.group/) - the OpenZiti Discourse Group
-  - [Blog](https://openziti.io)
+  - [GitHub](https://github.com/hanzozt) 
+  - [Discourse](https://community.hanzozt.dev/) - the Hanzo ZT Discourse Group
+  - [Blog](https://hanzozt.dev)
   - [Docs](../about)
   - [NetFoundry website](https://netfoundry.io/) 
 

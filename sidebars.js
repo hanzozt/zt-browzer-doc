@@ -51,7 +51,7 @@ const sidebars = {
       ],
       link: {
         type: "generated-index",
-        title: "Getting Started with OpenZiti BrowZer",
+        title: "Getting Started with Hanzo ZT BrowZer",
         description: "Follow the sequence of steps outlined in the sections below.",
         slug: "/getting-started",
       },
@@ -84,7 +84,7 @@ const sidebars = {
       link: {
         type: "generated-index",
         title: "Community",
-        description: "How to be a part of the OpenZiti BrowZercommunity",
+        description: "How to be a part of the Hanzo ZT BrowZercommunity",
         slug: "/community",
       },
     },

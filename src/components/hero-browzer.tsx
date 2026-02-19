@@ -29,19 +29,19 @@ export default function HeroBrowzer(): JSX.Element {
 
             <div className="right">
               <a
-                href="https://openziti.io"
+                href="https://hanzozt.io"
                 target="_blank"
                 rel="noreferrer"
                 className={styles.callout}
               >
                 <span className="notification_new">NEW</span>
-                <span className={styles.callout__text}>Check out the OpenZiti Tech Blog!</span>
+                <span className={styles.callout__text}>Check out the Hanzo ZT Tech Blog!</span>
                 <ChevronRightIcon className={styles.callout__icon} aria-hidden="true" />
               </a>
             </div>
 
             {/* <p className={styles.description}>
-              BrowZer from OpenZiti
+              BrowZer from Hanzo ZT
             </p> */}
 
             <h1 className={styles.slogan}>
@@ -52,7 +52,7 @@ export default function HeroBrowzer(): JSX.Element {
             <p className={styles.description}>
 
             BrowZer is an open source solution 
-            from the OpenZiti project that helps you 
+            from the Hanzo ZT project that helps you 
             <strong> host private-to-the-internet web apps</strong> without sacrificing ease-of-access for your<strong> authorized users</strong>.
 
             </p>
@@ -60,7 +60,7 @@ export default function HeroBrowzer(): JSX.Element {
             <br/>
             <br/>
             <p className={styles.description2}>
-            Welcome to the OpenZiti BrowZer environment.
+            Welcome to the Hanzo ZT BrowZer environment.
             </p>
             <br/>
 

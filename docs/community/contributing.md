@@ -15,12 +15,12 @@ All contributions are welcome, including features, issues, documentation, guides
 ## Got a question?
 
 You can ask questions, consult with more experienced BrowZer users, and discuss BrowZer-related topics 
-in the our [Discorse Group](https://openziti.discourse.group/).
+in the our [Discorse Group](https://community.hanzozt.dev/).
 
 ## Found a bug?
 
 If you find a bug in the source code, you can help us by 
-[submitting an issue](https://github.com/openziti/ziti/issues/new?assignees=&labels=type%3A%20bug&template=bug_report.md&title=) 
+[submitting an issue](https://github.com/hanzozt/ziti/issues/new?assignees=&labels=type%3A%20bug&template=bug_report.md&title=) 
 to our GitHub Repository. 
 Even better, you can submit a Pull Request with a fix.
 
@@ -40,7 +40,7 @@ If you want to help out with a code contribution, our project uses the following
 
 :::tip
 If you don't feel ready to make a code contribution yet, no problem! 
-You can also check out the [BrowZer documentation issues](https://github.com/openziti/ziti-browzer-doc/labels/type%3A%20docs).
+You can also check out the [BrowZer documentation issues](https://github.com/hanzozt/ziti-browzer-doc/labels/type%3A%20docs).
 :::
 
 

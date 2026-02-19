@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "images/favicon.ico",
-  organizationName: "OpenZiti",
+  organizationName: "Hanzo ZT",
   projectName: "ziti-browzer-doc",
   deploymentBranch: "master",
   trailingSlash: false,
@@ -42,7 +42,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/openziti/ziti-browzer-doc/tree/main/",
+          editUrl: "https://github.com/hanzozt/ziti-browzer-doc/tree/main/",
           sidebarCollapsed: true,
           remarkPlugins: [require('mdx-mermaid')],
         },
@@ -87,7 +87,7 @@ const config = {
         },
       },
       metadata: [
-        { name: "keywords", content: "browzer, browser, security, web, javascript, typescript, openziti" },
+        { name: "keywords", content: "browzer, browser, security, web, javascript, typescript, hanzozt" },
         {
           name: "description",
           content:
@@ -96,9 +96,9 @@ const config = {
         { name: "og:image", content: "https://browzer.info/images/og-image-browzer.png" },
       ],
       navbar: {
-        title: "OpenZiti BrowZer",
+        title: "Hanzo ZT BrowZer",
         logo: {
-          alt: "OpenZiti BrowZer Logo",
+          alt: "Hanzo ZT BrowZer Logo",
           src: "images/browzer-logo.svg",
           srcDark: "images/browzer-logo.svg",
         },
@@ -126,17 +126,17 @@ const config = {
           },
 
           { 
-            to: "https://openziti.io", 
-            label: "OpenZiti Tech Blog", 
+            to: "https://hanzozt.dev", 
+            label: "Hanzo ZT Tech Blog", 
             position: "right" 
           },
 
           {
-            href: "https://github.com/openziti/ziti",
+            href: "https://github.com/hanzozt/ziti",
             className: "header-github-link",
             "aria-label": "GitHub repository",
             position: "right",
-            title: "OpenZiti on Github",
+            title: "Hanzo ZT on Github",
           },
 
         ],
@@ -149,11 +149,11 @@ const config = {
             items: [
               {
                 label: "Blog",
-                href: "https://openziti.io/?utm_source=browzer.info",
+                href: "https://hanzozt.dev/?utm_source=browzer.info",
               },
               {
                 label: "Youtube Channel",
-                href: "https://www.youtube.com/openziti?utm_source=browzer.info",
+                href: "https://www.youtube.com/hanzozt?utm_source=browzer.info",
               },
             ],
           },
@@ -170,7 +170,7 @@ const config = {
               },
               {
                 label: "Report Issues",
-                href: "https://openziti.discourse.group",
+                href: "https://hanzozt.discourse.group",
               },
             ],
           },
@@ -179,20 +179,20 @@ const config = {
             items: [
               {
                 label: "Twitter",
-                href: "https://twitter.com/openziti",
+                href: "https://twitter.com/hanzozt",
               },
               {
                 label: "GitHub",
-                href: "https://github.com/openziti",
+                href: "https://github.com/hanzozt",
               },
               {
                 label: "Newsletter",
-                href: "https://openziti.io#blog-subscription-form?utm_source=browzer.info",
+                href: "https://hanzozt.dev#blog-subscription-form?utm_source=browzer.info",
               },
               {
                 label: "Help Us",
                 href:
-                  "https://github.com/openziti/ziti/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc",
+                  "https://github.com/hanzozt/ziti/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc",
               },
             ],
           },
